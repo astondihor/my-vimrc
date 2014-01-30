@@ -70,3 +70,10 @@ Dan Bundles yang saya install adalah sebagai berikut:
 - vim-surround
 - vim-unimpaired
 - vimwiki
+
+Screenshots
+-----------
+
+Click to view.
+
+[![MacVim](https://github.com/astondihor/my-vimrc/raw/master/img/macvim.png)](https://github.com/astondihor/my-vimrc/raw/master/img/macvim.png)
