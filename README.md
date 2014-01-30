@@ -76,4 +76,4 @@ Screenshots
 
 Click to view.
 
-[![MacVim](https://github.com/astondihor/my-vimrc/raw/master/img/macvim.png)](https://github.com/astondihor/my-vimrc/raw/master/img/macvim.png)
+[![MacVim](https://github.com/astondihor/my-vimrc/raw/master/img/macvim_th.jpg)](https://github.com/astondihor/my-vimrc/raw/master/img/macvim.jpg)
